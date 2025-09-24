@@ -1,11 +1,11 @@
-# Pokédex Web Application (PokéAPI)
+# PokéAPI Web Application
 
 ## Description
-A JavaScript-based web application that retrieves and displays Pokémon data from the PokéAPI. Users can explore and view dynamic info cards styled by Pokémon type.
+A JavaScript-based web application that retrieves and displays Pokémon data from the PokéAPI. Presents dynamic Pokémon information in a clean, responsive layout.
 
 ## Features
 - Fetches data asynchronously from the PokéAPI
-- Search and explore Pokémon by name or ID
+- Dynamically displays Pokémon details with styled info cards
 - Responsive UI with dynamically styled info cards
 - Real-time updates without page reloads
 
